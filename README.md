@@ -1,8 +1,8 @@
 # Dokumentasi Tugas 6: Multi-Cipher Tool
 
-**Kelompok:** (Isi nama anggota kelompok)
-**Mata Kuliah:** (Isi nama mata kuliah)
-
+**Kelompok:** (Chandra Yetija K., Syaddad Aulia R)
+**Mata Kuliah:** MILITARY CRYPTOGRAPHY TECHONOLOGY
+ 
 ## Deskripsi Aplikasi
 
 Aplikasi ini adalah implementasi dari berbagai algoritma cipher klasik yang dibungkus dalam dua antarmuka: GUI (Graphical User Interface) berbasis Web menggunakan Streamlit, dan CLI (Command-Line Interface) berbasis menu.
